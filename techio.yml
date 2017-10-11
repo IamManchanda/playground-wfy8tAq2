@@ -1,4 +1,11 @@
-title: Custom Template
+title : SASS
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+  - title: SASS Basics Duplicate Playground (Just for testing)
+    statement: markdowns/welcome.md
+projects:
+  sass:
+   root: root
+   buildCommand: "cd /project/target && chmod +x prebuild.sh && ./prebuild.sh"
+   runner:
+    name: ruby
+    version: latest

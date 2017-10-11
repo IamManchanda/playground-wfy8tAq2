@@ -1,0 +1,24 @@
+// First define the mixin
+@mixin colorize-paragraph($color) {
+  border: dotted 3px $color;
+  background: rgba($color, 0.3);
+}
+
+p {
+	padding: 10px;
+	margin: 10px;
+}
+
+// Use the mixin with multiple parameters
+
+.p-1 {
+	@include colorize-paragraph(red);
+}
+
+.p-2 {
+	@include colorize-paragraph(#1faf35);
+}
+
+.p-3 {
+	@include colorize-paragraph(blue);
+}

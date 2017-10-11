@@ -1,0 +1,16 @@
+p {
+	padding: 10px;
+	margin: 10px;
+}
+
+.wrap-first {
+	p {						// This target paragraphs that are inside .wrap-first
+		background: #F66;
+	}
+}
+
+.wrap-second {
+	p {						// This target paragraphs that are inside .wrap-second
+		background: #66F;
+	}
+}
