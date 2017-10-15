@@ -105,7 +105,7 @@ According to [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap), 
 
 **Flex Wrap - No Wrap**
 
-> **This is the initial value.** The flex items are laid out in a single line which may cause the flex container to overflow. The **cross-start** is either equivalent to **start** or **before** depending `[flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction)` value.
+> **This is the initial value.** The flex items are laid out in a single line which may cause the flex container to overflow. The **cross-start** is either equivalent to **start** or **before** depending [flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) value.
 
 https://codepen.io/IamManchanda/pen/JrWGKW
 
@@ -127,7 +127,7 @@ https://codepen.io/IamManchanda/pen/QqpyvX
 flex-flow: <'flex-direction'> <'flex-wrap'>
 ```
 
-The flex-flow property is a shorthand for setting the `[flex-direction](https://tympanus.net/codrops/css_reference/flexbox/#section_flex-direction)` and `[flex-wrap](https://tympanus.net/codrops/css_reference/flexbox/#section_flex-wrap)` properties, which together define the flex container’s main and cross axes. 
+The flex-flow property is a shorthand for setting the [flex-direction](https://tympanus.net/codrops/css_reference/flexbox/#section_flex-direction) and [flex-wrap](https://tympanus.net/codrops/css_reference/flexbox/#section_flex-wrap)properties, which together define the flex container’s main and cross axes. 
 
 ```scss
 /* flex-flow: <'flex-direction'> */
@@ -150,7 +150,7 @@ flex-flow: column-reverse wrap-reverse;
 flex-flow: inherit;
 flex-flow: initial;
 flex-flow: unset;
-```scss
+```
 
 ## To be Continued…
 
