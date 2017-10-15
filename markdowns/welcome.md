@@ -62,7 +62,9 @@ According to [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-directi
 
 > **This is the initial value.** The flex container's main-axis is defined to be the same as the text direction. The **main-start** and **main-end** points are the same as the content direction.
 
-https://codepen.io/IamManchanda/pen/LzWYEP 
+@[Flex Direction Row]({"stubs": ["flex-dir-row.scss", "flex-dir-row.html"], "command": "/bin/bash /project/target/run.sh flex-dir-row"})
+
+Fond of Codepen? Play with the code [here](https://codepen.io/IamManchanda/pen/LzWYEP).
 
 **Flex Direction - Row Reverse**
 
