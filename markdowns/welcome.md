@@ -2,7 +2,7 @@
 
 This article is **Part 2** for the series **“Flexbox and CSS Grid”.**
 
-Welcome back, in the previous article we had an Introduction to Flexbox and CSS Grid. Now we will start with flexbox and cover Flex container and its properties, Flex Direction, Flex Wrap and their shorthand Flex Flow.
+Welcome back, in the [previous](https://tech.io/playgrounds/7859/flexbox-and-css-grid-part--1) article we had an Introduction to Flexbox and CSS Grid. Now we will start with flexbox and cover Flex container and its properties, Flex Direction, Flex Wrap and their shorthand Flex Flow.
 
 Using Flexbox starts with creating a flex container, also known as container box. The children of the flex container are flex items whether they are DOM nodes, text nodes, or generated content. Flex Items are nested inside the flex container as per the assigned Flexbox properties. Please note that some of the Flexbox properties apply to the container itself, whereas others are applied to the flex items. You can create a Flex Container by setting up the display property of an element to either `flex` (block-level flex container) or `inline-flex` (inline-level flex container).
 
@@ -76,7 +76,7 @@ Codepen also [available](https://codepen.io/IamManchanda/pen/GMWRYO)
 
 **Flex Direction - Column**
 
-> The flex container's main-axis is the same as the block-axis. The **main-start** and **main-end** points are the same as the **before**and **after** points of the writing-mode.
+> The flex container's main-axis is the same as the block-axis. The **main-start** and **main-end** points are the same as the **before** and **after** points of the writing-mode.
 
 @[Flex Direction Column]({"stubs": ["flex-dir-column.scss", "flex-dir-column.html"], "command": "/bin/bash /project/target/run.sh flex-dir-column"})
 
@@ -168,7 +168,7 @@ flex-flow: unset;
 
 ## To be Continued…
 
-Thanks for following along. Next up is **Part 3,** where we will cover **Flex items**.
+Thanks for following along. [Next](https://tech.io/playgrounds/7860/flexbox-and-css-grid-part--3) up is **Part 3,** where we will cover **Flex items**.
 
 ## References
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
