@@ -70,6 +70,8 @@ Codepen also [available](https://codepen.io/IamManchanda/pen/LzWYEP).
 
 > Behaves the same as `row` but the **main-start** and **main-end** points are permuted.
 
+@[Flex Direction Row Reverse]({"stubs": ["flex-dir-row-reverse.scss", "flex-dir-row-reverse.html"], "command": "/bin/bash /project/target/run.sh flex-dir-row-reverse"})
+
 Codepen also [available](https://codepen.io/IamManchanda/pen/GMWRYO)
 
 **Flex Direction - Column**
