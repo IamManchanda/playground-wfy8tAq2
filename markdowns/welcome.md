@@ -78,11 +78,15 @@ Codepen also [available](https://codepen.io/IamManchanda/pen/GMWRYO)
 
 > The flex container's main-axis is the same as the block-axis. The **main-start** and **main-end** points are the same as the **before**and **after** points of the writing-mode.
 
+@[Flex Direction Column]({"stubs": ["flex-dir-column.scss", "flex-dir-column.html"], "command": "/bin/bash /project/target/run.sh flex-dir-column"})
+
 Codepen also [available](https://codepen.io/IamManchanda/pen/LzWYXR)
 
 **Flex Direction - Column Reverse**
 
 > Behaves the same as `column` but the **main-start** and **main-end** are permuted.
+
+@[Flex Direction Column Reverse]({"stubs": ["flex-dir-column-reverse.scss", "flex-dir-column-reverse.html"], "command": "/bin/bash /project/target/run.sh flex-dir-column-reverse"})
 
 Codepen also [available](https://codepen.io/IamManchanda/pen/vexYPJ)
 
