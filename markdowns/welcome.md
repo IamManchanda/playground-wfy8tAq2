@@ -115,17 +115,23 @@ According to [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap), 
 
 > **This is the initial value.** The flex items are laid out in a single line which may cause the flex container to overflow. The **cross-start** is either equivalent to **start** or **before** depending [flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) value.
 
+@[Flex No Wrap]({"stubs": ["flex-no-wrap.scss", "flex-no-wrap.html"], "command": "/bin/bash /project/target/run.sh flex-no-wrap"})
+
 Codepen also [available](https://codepen.io/IamManchanda/pen/JrWGKW)
 
 **Flex Wrap - Wrap**
 
 > The flex items break into multiple lines. The **cross-start** is either equivalent to **start** or **before** depending `flex-direction` value and the **cross-end** is the opposite of the specified **cross-start**.
 
+@[Flex Wrap]({"stubs": ["flex-wrap.scss", "flex-wrap.html"], "command": "/bin/bash /project/target/run.sh flex-wrap"})
+
 Codepen also [available](https://codepen.io/IamManchanda/pen/GMWoWB)
 
 **Flex Wrap - Wrap Reverse**
 
 > Behaves the same as `wrap` but **cross-start** and **cross-end** are permuted.
+
+@[Flex Wrap Reverse]({"stubs": ["flex-wrap-reverse.scss", "flex-wrap-reverse.html"], "command": "/bin/bash /project/target/run.sh flex-wrap-reverse"})
 
 Codepen also [available](https://codepen.io/IamManchanda/pen/QqpyvX)
 

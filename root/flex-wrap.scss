@@ -1,0 +1,24 @@
+/* Using Bulma components just for demo */
+
+/* Just for demo */
+body { padding: 1.5rem; }
+
+.flex-container {
+  margin: 0 -15px;
+}
+
+.flex-item {
+  width: 25%;
+  padding: 15px;
+}
+
+/* Tutorial specific CSS */
+
+.dir-ltr { direction: ltr; }
+.dir-rtl { direction: rtl; }
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
