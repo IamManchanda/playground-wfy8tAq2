@@ -127,7 +127,7 @@ https://codepen.io/IamManchanda/pen/QqpyvX
 flex-flow: <'flex-direction'> <'flex-wrap'>
 ```
 
-The flex-flow property is a shorthand for setting the [flex-direction](https://tympanus.net/codrops/css_reference/flexbox/#section_flex-direction) and [flex-wrap](https://tympanus.net/codrops/css_reference/flexbox/#section_flex-wrap)properties, which together define the flex container’s main and cross axes. 
+The flex-flow property is a shorthand for setting the [flex-direction](https://tympanus.net/codrops/css_reference/flexbox/#section_flex-direction) and [flex-wrap](https://tympanus.net/codrops/css_reference/flexbox/#section_flex-wrap) properties, which together define the flex container’s main and cross axes. 
 
 ```scss
 /* flex-flow: <'flex-direction'> */
