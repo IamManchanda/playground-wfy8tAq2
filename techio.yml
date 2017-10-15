@@ -1,6 +1,6 @@
-title : SASS
+title : Flexbox and CSS Grid Part. 2
 plan:
-  - title: SASS Basics Duplicate Playground (Just for testing)
+  - title: Flexbox and CSS Grid Part. 2
     statement: markdowns/welcome.md
 projects:
   sass:
