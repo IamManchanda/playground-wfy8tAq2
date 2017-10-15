@@ -64,25 +64,25 @@ According to [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-directi
 
 @[Flex Direction Row]({"stubs": ["flex-dir-row.scss", "flex-dir-row.html"], "command": "/bin/bash /project/target/run.sh flex-dir-row"})
 
-Fond of Codepen? Play with the code [here](https://codepen.io/IamManchanda/pen/LzWYEP).
+Codepen also [available](https://codepen.io/IamManchanda/pen/LzWYEP).
 
 **Flex Direction - Row Reverse**
 
 > Behaves the same as `row` but the **main-start** and **main-end** points are permuted.
 
-https://codepen.io/IamManchanda/pen/GMWRYO
+Codepen also [available](https://codepen.io/IamManchanda/pen/GMWRYO)
 
 **Flex Direction - Column**
 
 > The flex container's main-axis is the same as the block-axis. The **main-start** and **main-end** points are the same as the **before**and **after** points of the writing-mode.
 
-https://codepen.io/IamManchanda/pen/LzWYXR
+Codepen also [available](https://codepen.io/IamManchanda/pen/LzWYXR)
 
 **Flex Direction - Column Reverse**
 
 > Behaves the same as `column` but the **main-start** and **main-end** are permuted.
 
-https://codepen.io/IamManchanda/pen/vexYPJ
+Codepen also [available](https://codepen.io/IamManchanda/pen/vexYPJ)
 
 ## Flex Wrap
 
@@ -109,19 +109,19 @@ According to [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap), 
 
 > **This is the initial value.** The flex items are laid out in a single line which may cause the flex container to overflow. The **cross-start** is either equivalent to **start** or **before** depending [flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) value.
 
-https://codepen.io/IamManchanda/pen/JrWGKW
+Codepen also [available](https://codepen.io/IamManchanda/pen/JrWGKW)
 
 **Flex Wrap - Wrap**
 
 > The flex items break into multiple lines. The **cross-start** is either equivalent to **start** or **before** depending `flex-direction` value and the **cross-end** is the opposite of the specified **cross-start**.
 
-https://codepen.io/IamManchanda/pen/GMWoWB
+Codepen also [available](https://codepen.io/IamManchanda/pen/GMWoWB)
 
 **Flex Wrap - Wrap Reverse**
 
 > Behaves the same as `wrap` but **cross-start** and **cross-end** are permuted.
 
-https://codepen.io/IamManchanda/pen/QqpyvX
+Codepen also [available](https://codepen.io/IamManchanda/pen/QqpyvX)
 
 ## Shorthand - Flex Flow
 
